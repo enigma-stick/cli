@@ -1,0 +1,3 @@
+*.pem
+enigma-cli
+.session.vim
